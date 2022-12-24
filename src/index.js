@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-ReactDOm.render(<App />, document.getElementByld("root"));
+ReactDOM.render(<App />, document.getElementByld("root"));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
